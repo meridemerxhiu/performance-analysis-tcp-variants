@@ -1,1 +1,1 @@
-# ANALIZA E PERFORMANCËS SË VARIANTEVE TË NDRYSHME TCP
+### Analiza e performances se varianteve te ndryshme TCP
